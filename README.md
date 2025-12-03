@@ -17,17 +17,17 @@ Each puzzle also includes its corresponding input file:
 
 ## Progress
 
-| Day | Status          |
-|-----|------------------|
-| 1   | ✅ Completed     |
-| 2   | ⏳ Not released   |
-| 3   | ⏳ Not released   |
-| 4   | ⏳ Not released   |
-| 5   | ⏳ Not released   |
-| 6   | ⏳ Not released   |
-| 7   | ⏳ Not released   |
-| 8   | ⏳ Not released   |
-| 9   | ⏳ Not released   |
-| 10  | ⏳ Not released   |
-| 11  | ⏳ Not released   |
-| 12  | ⏳ Not released   |
+| Day | Status         |
+|-----|----------------|
+| 1   | ✅ Completed    |
+| 2   | ⏳ Only part 1  |
+| 3   | ⏳ Not released |
+| 4   | ⏳ Not released |
+| 5   | ⏳ Not released |
+| 6   | ⏳ Not released |
+| 7   | ⏳ Not released |
+| 8   | ⏳ Not released |
+| 9   | ⏳ Not released |
+| 10  | ⏳ Not released |
+| 11  | ⏳ Not released |
+| 12  | ⏳ Not released |
