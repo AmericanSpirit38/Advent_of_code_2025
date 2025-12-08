@@ -20,7 +20,7 @@ Each puzzle also includes its corresponding input file:
 | Day | Status         |
 |-----|----------------|
 | 1   | ✅ Completed    |
-| 2   | ⏳ Only part 1  |
+| 2   | ✅ Completed    |
 | 3   | ⏳ Not released |
 | 4   | ⏳ Not released |
 | 5   | ⏳ Not released |
